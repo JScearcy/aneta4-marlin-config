@@ -1,5 +1,6 @@
 # Anet A4 Marlin Config
 This is a configuration starter for **Marlin 1.1.9** on the **Anet A4** Delta 3d printer.
+Any previous versions will be kept in a branch with the naming convention Marlin-x.x.x.
 
 ## Adjusting for your printer
 * _DELTA_DIAGONAL_ROD_ should be set to the length of your rods.
@@ -9,4 +10,5 @@ This is a configuration starter for **Marlin 1.1.9** on the **Anet A4** Delta 3d
 
     * If the nozzle is too high in the center an goes towards the bed increase delta radius
     * If the nozzle is too low in the center and goes away from the bed decrease the delta radius
+
 
